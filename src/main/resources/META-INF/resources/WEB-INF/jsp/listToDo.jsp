@@ -12,7 +12,7 @@
 
 				<th>Desciption</th>
 				<th>Target Date</th>
-				<th>IsCompleted]</th>
+				<th>IsCompleted</th>
 				<th></th>
 				<th></th>
 			</tr>
